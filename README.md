@@ -2,6 +2,8 @@
 SimpleForm to fetch data from the github API with custom list view
 Project Created with Expo.
 
+To install the app, run npm install
+
 Simple project to fetch the repository data for a given user (through a previous
 form)
 
@@ -18,5 +20,4 @@ you could change the url end to "?page=/number/&per_page=/desired_data/".
 
 SlimAsync were used to simplify middleware.
 
-Check package.json for libraries to install using npm install --save <library>
-or use npm install
+
